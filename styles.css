@@ -1,0 +1,125 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    text-align: center
+}
+
+.anchor-design {
+    text-decoration: none;
+    color: white;
+    background-color: salmon;
+    border-radius: 20px;
+    padding: 10px 20px;
+
+}
+
+h1 {
+    font-size: 300%;
+}
+
+.bg-image {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    height: 583px;
+    width: 880px;
+    margin-left: 17%;
+    margin-right: 25%;
+    vertical-align: middle;
+    padding-top: 7%;
+}
+
+button {
+    margin-top: 3%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 2%;
+    padding: 40px;
+    font-size: large;
+}
+
+.heading {
+    font-style: bold;
+}
+
+input {
+    color: gray;
+}
+
+.amount {
+    border: unset;
+    font-size: xx-large;
+    border-bottom: solid 0.2px;
+    padding: 30px 250px;
+
+}
+
+.donate {
+    color: white;
+    font-size: x-large;
+    margin-top: 2%;
+    background-color: salmon;
+    padding: 20px 50px;
+    border-radius: 40px;
+}
+
+.target-projects {
+    margin-top: -5%;
+    box-align: center;
+    display: flex;
+
+}
+
+.tasks {
+    margin: 5%;
+}
+
+#task1 {
+    background-color: white;
+}
+
+#task2 {
+    background-color: blanchedalmond;
+}
+
+#task3 {
+    background-color: rgb(250, 224, 184);
+}
+
+#Plan {
+    margin-top: 12%;
+}
+
+.email {
+    margin-left: 10%;
+    margin-right: 10%;
+    size: 100px;
+    padding: 100px 150px;
+    background-color: rgb(241, 229, 209);
+}
+
+.mail {
+    font-size: x-large;
+    border: unset;
+}
+
+#Subscribe-button {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: brown;
+    color: white;
+}
+
+footer {
+    margin-left: 10%;
+    margin-right: 10%;
+    border-top: 10px;
+    background-color: black;
+    color: gray;
+    padding: 0% 5% 0% 5%;
+}
+
+h3 {
+    font-family: 'The Nautigal', cursive;
+    font-size: 300%;
+    color: red;
+}
